@@ -4,3 +4,5 @@ ikinci gun ERGUN BRANCH DENEME
 ikinci gun master BRANCH DENEME
 
 ergun branch  stash deneme
+
+remote icin ilk deneme
